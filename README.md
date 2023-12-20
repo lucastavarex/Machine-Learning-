@@ -1,6 +1,5 @@
 # Introduction to Machine Learning - EEL891
 
-```
 This repository stores the final projects related to the Introduction to Machine Learning course, taught by Professor Heraldo during the 2023.2 period at UFRJ. The projects consist of two machine learning models - one for classification and one for regression - that were submitted to competitions on Kaggle.
 
 Classification Model
@@ -8,4 +7,4 @@ This is a classifier used to assist in making credit approval decisions. Its obj
 
 Regression Model
 It uses regression techniques to estimate the value of a property based on its characteristics.
-```
+
